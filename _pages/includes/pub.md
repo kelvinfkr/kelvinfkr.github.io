@@ -13,3 +13,17 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS</div><img src='https://github.com/neuralchen/RainNet/raw/main/docs/img/HRGT_201009539_201009571.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RainNet: A large-scale imagery dataset and benchmark for spatial precipitation downscaling](https://www.nature.com/articles/s41467-022-32018-4) \\
+Xuanhong Chen, **Kairui Feng(co-first)**, et al.
+
+- Collect a comprehensive real-world precipitation dataset (1979-2018), Download [Google Drive](https://drive.google.com/file/d/1cvzT3n9N7o06YhykdakOsboyqwTavkEP/view) and Code [Github](https://github.com/neuralchen/RainNet?tab=readme-ov-file).
+- Evaluate various downscaling methods to accurately represent both high and low-resolution rainfall patterns.
+- Acquire an extensive high-resolution (4km) rainfall dataset for analysis.
+
+</div>
+</div>
+
+
