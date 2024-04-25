@@ -1,18 +1,15 @@
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32018-4/MediaObjects/41467_2022_32018_Fig3_HTML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[Tropical cyclone-blackout-heatwave compound hazard resilience in a changing climate](https://www.nature.com/articles/s41467-022-32018-4) \\
+**Kairui Feng**, Min Ouyang, Ning Lin
 
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
-- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
-- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+- This pioneering model forecasts power outage resilience under evolving climate conditions.
+- Our paper delineates a cost-effective strategy for fortifying power systems against climate risks.
+- **Media Report**: Featured by [NSF](https://beta.nsf.gov/news/burying-short-sections-power-lines-could-drastically-reduce-hurricanes-impact-coastal), [The Hill](https://thehill.com/changing-america/resilience/natural-disasters/3606490-burying-just-5-percent-of-power-lines-would-improve-resilience-in-hurricane-prone-regions/), [Yahoo](http://ct.moreover.com/?a=48516502277&p=1pl&v=1&x=8SKzgY8upwY5q_fLSs922Q), [Mirage](http://ct.moreover.com/?a=48509341316&p=1pl&v=1&x=QTjKY8U3xGAsjn1-uI2XWg), [Vox](https://www.vox.com/energy-and-environment/2017/9/14/16301836/florida-irma-harvey-blackouts), etc.
 </div>
 </div>
 
-- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
