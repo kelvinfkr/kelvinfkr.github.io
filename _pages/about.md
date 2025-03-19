@@ -15,5 +15,5 @@ redirect_from:
 
 {% include_relative includes/pub.md %}
 
-# 🔥 团队成员
+# 🧑‍💻 团队成员
 {% include_relative includes/Student.md %}
