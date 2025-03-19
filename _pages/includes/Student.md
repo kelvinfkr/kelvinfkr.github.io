@@ -1,5 +1,5 @@
 
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">Nature Communications</div> <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png' alt="Joy Boy" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">乔伊·波伊</div> <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png' alt="Joy Boy" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
 Adaptive Resilience Strategies for Island Networks under Extreme Weather
 Joy Boy (乔伊·波伊), Tongji University (同济大学)
 
