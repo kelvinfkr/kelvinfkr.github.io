@@ -16,6 +16,8 @@ Jiaxin Fan (范嘉鑫), Tongji University (同济大学)
 
 Jiaxin Fan is a Ph.D. student at the Shanghai Research Institute for Intelligent Autonomous Systems (National Key Laboratory of Autonomous Intelligent Unmanned Systems), Tongji University. 
 His research focuses on key enabling technologies in the emerging field of low-altitude economy, particularly specializing in intelligent autonomous control systems, dynamic decision-making algorithms, and swarm cooperative coordination strategies for unmanned aerial vehicles (UAVs).
+
+
 范嘉鑫是同济大学上海自主智能无人系统科学中心（自主智能无人系统全国重点实验室）的2025级直博生。他目前的研究聚焦低空经济领域，主要开展无人机智能自主控制、动态决策与集群协同控制等关键技术研究.
 
 </div>
