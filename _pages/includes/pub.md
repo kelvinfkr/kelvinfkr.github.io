@@ -23,7 +23,7 @@
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32018-4/MediaObjects/41467_2022_32018_Fig3_HTML.png' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
-  [Tropical cyclone-blackout-heatwave compound hazard resilience in a changing climate](https://www.nature.com/articles/s41467-022-32018-4) 
+  [Tropical cyclone-blackout-heatwave compound hazard resilience in a changing climate](https://doi.org/10.1038/s41467-022-32018-4) 
   
 《气候变化下台风-停电-热浪复合灾害韧性研究》 
   
