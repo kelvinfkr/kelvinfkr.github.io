@@ -12,7 +12,7 @@ Highlights: Published in Nature Communications, featured by Science Daily, Mirag
 </div>
 
 <div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">范嘉鑫</div> <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png' alt="Jiaxin Fan" width="50%"> </div> </div> <div class='paper-box-text' markdown="1">
-Jiaxin Fan (范嘉鑫), Tongji University (同济大学)
+Jiaxin Fan (范嘉鑫), Tongji University (同济大学), coadvised with Dingyu Long（和丁玉隆老师一起指导）
 
 Jiaxin Fan is a Ph.D. student at the Shanghai Research Institute for Intelligent Autonomous Systems (National Key Laboratory of Autonomous Intelligent Unmanned Systems), Tongji University. 
 His research focuses on key enabling technologies in the emerging field of low-altitude economy, particularly specializing in intelligent autonomous control systems, dynamic decision-making algorithms, and swarm cooperative coordination strategies for unmanned aerial vehicles (UAVs).
