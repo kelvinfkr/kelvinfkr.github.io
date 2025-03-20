@@ -18,7 +18,7 @@ Meilu Yuan is currently a doctoral student at Tongji University. She obtained he
 
 </div>
 
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">范嘉鑫</div> <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png' alt="Jiaxin Fan"  width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">范嘉鑫</div> <img src='https://userblink.csdnimg.cn/direct/1828074c5fbb4b0d89ce35a0af44fcc3.png' alt="Jiaxin Fan"  width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
 Jiaxin Fan (范嘉鑫), Tongji University (同济大学), coadvised with Dingyu Long（和丁玉隆老师一起指导）
 
 Jiaxin Fan is a Ph.D. student at the Shanghai Research Institute for Intelligent Autonomous Systems (National Key Laboratory of Autonomous Intelligent Unmanned Systems), Tongji University. 
