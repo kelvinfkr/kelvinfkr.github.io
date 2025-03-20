@@ -1,4 +1,27 @@
 # 📝 Selected Publications / 代表性论文
+
+</div> </div> <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS</div><img src='https://www.pnas.org/cms/10.1073/pnas.2402826122/asset/613a3709-8764-4f6f-83c0-26ac1960905f/assets/images/large/pnas.2402826122fig04.jpg' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
+[Reinforcement learning–based adaptive strategies for climate change adaptation: An application for coastal flood risk management](https://www.pnas.org/doi/10.1073/pnas.2402826122)
+  
+  《基于强化学习的自适应气候适应策略：纽约曼哈顿海岸洪水风险管理应用》 
+  
+   **Kairui Feng**, Ning Lin, et al.
+
+- Reinforcement learning reduces coastal flood adaptation costs by up to 77%.
+强化学习可将沿海洪水适应成本最多降低77%。
+
+
+
+- RL integrates protection, accommodation, and retreat strategies for higher efficiency.
+强化学习整合防护、适应与退避策略，提升经济效益。
+
+
+- RL effectively controls tail risks and adapts to climate uncertainties.
+  强化学习有效控制尾部风险，适应气候不确定性。
+
+</div> </div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32018-4/MediaObjects/41467_2022_32018_Fig3_HTML.png' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
   [Tropical cyclone-blackout-heatwave compound hazard resilience in a changing climate](https://www.nature.com/articles/s41467-022-32018-4) 
   
