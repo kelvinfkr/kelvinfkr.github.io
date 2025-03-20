@@ -1,4 +1,4 @@
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">Meilu Yuan</div> <img src='https://mluyuan.github.io/mlu yuan.jpg' alt="Meilu Yuan" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">Meilu Yuan</div> <img src='https://mluyuan.github.io/mlu_yuan.jpg' alt="Meilu Yuan" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
 
 Meilu Yuan (袁美璐), Tongji University (同济大学)
 
