@@ -1,6 +1,6 @@
 # 📝 Selected Publications / 代表性论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS</div><img src='https://github.com/kelvinfkr/kelvinfkr.github.io/blob/main/_data/pnas2025.jpg' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS</div><img src='https://github.com/kelvinfkr/kelvinfkr.github.io/blob/main/_data/pnas2025.jpg?raw=true' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
 [Reinforcement learning–based adaptive strategies for climate change adaptation: An application for coastal flood risk management](https://www.pnas.org/doi/10.1073/pnas.2402826122)
   
   《基于强化学习的自适应气候适应策略：纽约曼哈顿海岸洪水风险管理应用》 
