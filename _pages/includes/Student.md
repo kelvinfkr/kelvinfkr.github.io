@@ -1,5 +1,7 @@
 # 🧑‍💻 Teammate/团队成员
 
+<img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/group1.jpg' alt="Qili Shen" width="100%">
+
 <div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">沈启立</div> <img src='https://github.com/shenqili123/assets/raw/main/sql1.jpg' alt="Qili Shen" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
 Qili Shen (沈启立), Tongji University (同济大学), Email:2311788@tongji.edu.cn (和宋越老师一起指导)
 
