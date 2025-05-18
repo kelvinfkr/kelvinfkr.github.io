@@ -21,6 +21,23 @@
 
 </div> </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/nc2025.tiff' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
+[Hurricane Ida’s blackout-heatwave compound risk in a changing climate]([https://www.pnas.org/doi/10.1073/pnas.2402826122](https://www.nature.com/articles/s41467-025-59737-8))
+  
+  《气候变化背景下飓风“艾达”引发的停电-热浪复合风险评估》 
+  
+   **Kairui Feng**, Ning Lin, et al.
+
+- Return period of Ida-like compound events drops from 278 to 16.2 years under SSP5-8.5.
+ “艾达级”复合灾害重现期将从278年降至16.2年（SSP5-8.5）
+
+- Heatwave intensification is the dominant driver, increasing risk by 3–5 times.
+热浪增强是风险上升的主要驱动因素，可使风险提升3–5倍
+
+- Study informs grid resilience and adaptation strategies, such as levee upgrades and distributed energy systems
+研究为电网韧性提升与气候适应策略（如加高海堤、分布式能源）提供量化依据
+
+</div> </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32018-4/MediaObjects/41467_2022_32018_Fig3_HTML.png' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
   [Tropical cyclone-blackout-heatwave compound hazard resilience in a changing climate](https://doi.org/10.1038/s41467-022-32018-4) 
