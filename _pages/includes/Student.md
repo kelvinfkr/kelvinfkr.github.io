@@ -3,10 +3,6 @@
 <img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/group1.jpg' alt="Qili Shen" width="100%">
 
 
-
-</div>
-
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
