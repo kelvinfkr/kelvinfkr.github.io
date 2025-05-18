@@ -1,6 +1,6 @@
 # 🧑‍💻 Teammate/团队成员
 
-<img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/group1.jpg' alt="Qili Shen" width="100%">
+<img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/group1.jpg' alt="Qili Shen" width="80%">
 
 
 <div class='paper-box'>
@@ -22,7 +22,7 @@ Yang Danru is a direct doctoral student of the 2026 grade at the Shanghai Resear
 
 
 </div>
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">范嘉鑫</div> <img src='https://userblink.csdnimg.cn/direct/1828074c5fbb4b0d89ce35a0af44fcc3.png' alt="Jiaxin Fan"  width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">范嘉鑫</div> <img src='https://userblink.csdnimg.cn/direct/1828074c5fbb4b0d89ce35a0af44fcc3.png' alt="Jiaxin Fan"  width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
 Jiaxin Fan (范嘉鑫), Tongji University (同济大学), coadvised with Dingyu Long（和丁玉隆老师一起指导）
 
 Jiaxin Fan is a Ph.D. student at the Shanghai Research Institute for Intelligent Autonomous Systems (National Key Laboratory of Autonomous Intelligent Unmanned Systems), Tongji University. 
@@ -33,7 +33,7 @@ His research focuses on key enabling technologies in the emerging field of low-a
 
 </div>
 
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">沈启立</div> <img src='https://github.com/shenqili123/assets/raw/main/sql1.jpg' alt="Qili Shen" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">沈启立</div> <img src='https://github.com/shenqili123/assets/raw/main/sql1.jpg' alt="Qili Shen" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
 Qili Shen (沈启立), Tongji University (同济大学), Email:2311788@tongji.edu.cn (和宋越老师一起指导)
 
 Qili Shen specializes in intelligent decision-making systems for urban low-altitude air mobility, focusing on 3D trajectory optimization and vertiport location-allocation in dense urban airspace networks.
@@ -44,7 +44,7 @@ Qili Shen is currently pursuing his doctoral studies as a direct Ph.D. candidate
 
 </div>
 
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">Meilu Yuan</div> <img src='https://mluyuan.github.io/mlu_yuan.jpg' alt="Meilu Yuan" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">Meilu Yuan</div> <img src='https://mluyuan.github.io/mlu_yuan.jpg' alt="Meilu Yuan" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
 
 Meilu Yuan (袁美璐), Tongji University (同济大学)
 
