@@ -21,7 +21,7 @@
 
 </div> </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/nc2025.tiff' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/nc2025.jpg' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
 [Hurricane Ida’s blackout-heatwave compound risk in a changing climate]([https://www.pnas.org/doi/10.1073/pnas.2402826122](https://www.nature.com/articles/s41467-025-59737-8))
   
   《气候变化背景下飓风“艾达”引发的停电-热浪复合风险评估》 
