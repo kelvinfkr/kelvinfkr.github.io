@@ -2,6 +2,43 @@
 
 <img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/group1.jpg' alt="Qili Shen" width="100%">
 
+
+
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">杨丹茹</div>
+      <img src='https://github.com/Andromeda831/assets/blob/main/Danru%20Yang.jpg' alt="Danru Yang" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+
+Danru Yang (杨丹茹), Tongji University (同济大学)
+
+<span>&#9993; 2931672208@qq.com</span>  
+
+Yang Danru is a direct doctoral student of the 2026 grade at the Shanghai Research Institute for Intelligent Autonomous Systems (National Key Laboratory of Autonomous Intelligent Unmanned Systems), Tongji University.She studied Applied Chemistry at Tongji University for her undergraduate degree. Her current research direction is large language models, and she will focus on the direction of ai for science in the future. In terms of scientific research, she was once in charge of a national-level innovation and entrepreneurship project, which won the first prize at the university level.
+
+
+杨丹茹是同济大学上海自主智能无人系统科学中心（自主智能无人系统全国重点实验室）的2026级直博生。她本科就读于同济大学应用化学（强基计划）专业。她目前的研究方向是大语言模型，未来将聚焦于人工智能驱动科学研究方向 。在科研方面，她曾负责过一项国家级创新创业项目，项目曾获校级一等奖。
+
+
+</div>
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">范嘉鑫</div> <img src='https://userblink.csdnimg.cn/direct/1828074c5fbb4b0d89ce35a0af44fcc3.png' alt="Jiaxin Fan"  width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+Jiaxin Fan (范嘉鑫), Tongji University (同济大学), coadvised with Dingyu Long（和丁玉隆老师一起指导）
+
+Jiaxin Fan is a Ph.D. student at the Shanghai Research Institute for Intelligent Autonomous Systems (National Key Laboratory of Autonomous Intelligent Unmanned Systems), Tongji University. 
+His research focuses on key enabling technologies in the emerging field of low-altitude economy, particularly specializing in intelligent autonomous control systems, dynamic decision-making algorithms, and swarm cooperative coordination strategies for unmanned aerial vehicles (UAVs).
+
+
+范嘉鑫是同济大学上海自主智能无人系统科学中心（自主智能无人系统全国重点实验室）的2025级直博生。他目前的研究聚焦低空经济领域，主要开展无人机智能自主控制、动态决策与集群协同控制等关键技术研究.
+
+</div>
+
 <div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">沈启立</div> <img src='https://github.com/shenqili123/assets/raw/main/sql1.jpg' alt="Qili Shen" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
 Qili Shen (沈启立), Tongji University (同济大学), Email:2311788@tongji.edu.cn (和宋越老师一起指导)
 
@@ -29,42 +66,6 @@ Meilu Yuan is currently a doctoral student at Tongji University. She obtained he
 袁美璐现在就读于同济大学，研究生毕业于中山大学。在学术成果方面，她已获得20余项专利，主要集中在与大语言模型相关的领域。与此同时，她的研究成果发表在《科学计量学》（*Scientometrics*）和《现代情报》（*Modern Information*）上。在竞赛荣誉方面，她曾获得全国研究生数学建模竞赛全国一等奖、全国大学生数学建模竞赛全国二等奖等。
 
 - 在《科学计量学》（*Scientometrics*）和《现代情报》（*Modern Information*）上发表过论文。 
-
-
-</div>
-
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">范嘉鑫</div> <img src='https://userblink.csdnimg.cn/direct/1828074c5fbb4b0d89ce35a0af44fcc3.png' alt="Jiaxin Fan"  width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
-Jiaxin Fan (范嘉鑫), Tongji University (同济大学), coadvised with Dingyu Long（和丁玉隆老师一起指导）
-
-Jiaxin Fan is a Ph.D. student at the Shanghai Research Institute for Intelligent Autonomous Systems (National Key Laboratory of Autonomous Intelligent Unmanned Systems), Tongji University. 
-His research focuses on key enabling technologies in the emerging field of low-altitude economy, particularly specializing in intelligent autonomous control systems, dynamic decision-making algorithms, and swarm cooperative coordination strategies for unmanned aerial vehicles (UAVs).
-
-
-范嘉鑫是同济大学上海自主智能无人系统科学中心（自主智能无人系统全国重点实验室）的2025级直博生。他目前的研究聚焦低空经济领域，主要开展无人机智能自主控制、动态决策与集群协同控制等关键技术研究.
-
-</div>
-
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">杨丹茹</div>
-      <img src='https://github.com/Andromeda831/assets/blob/main/Danru%20Yang.jpg' alt="Danru Yang" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-
-Danru Yang (杨丹茹), Tongji University (同济大学)
-
-<span>&#9993; 2931672208@qq.com</span>  
-
-Yang Danru is a direct doctoral student of the 2026 grade at the Shanghai Research Institute for Intelligent Autonomous Systems (National Key Laboratory of Autonomous Intelligent Unmanned Systems), Tongji University.She studied Applied Chemistry at Tongji University for her undergraduate degree. Her current research direction is large language models, and she will focus on the direction of ai for science in the future. In terms of scientific research, she was once in charge of a national-level innovation and entrepreneurship project, which won the first prize at the university level.
-
-
-杨丹茹是同济大学上海自主智能无人系统科学中心（自主智能无人系统全国重点实验室）的2026级直博生。她本科就读于同济大学应用化学（强基计划）专业。她目前的研究方向是大语言模型，未来将聚焦于人工智能驱动科学研究方向 。在科研方面，她曾负责过一项国家级创新创业项目，项目曾获校级一等奖。
 
 
 </div>
