@@ -62,7 +62,7 @@ Xinyao Wang is a direct PhD student (class of 2025) at the  Shanghai Research In
   <div class='paper-box-image'>
     <div>
       <div class="badge">武越</div>
-      < img src='https://github.com/TyrionWuYue/assets/raw/main/imgs/prof_pic.jpg' alt="Yue Wu" width="70%">
+      <img src='https://github.com/TyrionWuYue/assets/raw/main/imgs/prof_pic.jpg' alt="Yue Wu" width="80%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
