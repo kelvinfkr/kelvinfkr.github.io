@@ -1,6 +1,6 @@
 # 🧑‍💻 Teammate/团队成员
 
-<img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/group1.jpg' alt="Qili Shen" width="80%">
+<img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/group1.jpg' alt="组内聚餐" width="80%">
 
 
 <div class='paper-box'>
@@ -67,7 +67,7 @@ Xinyao Wang is a direct PhD student (class of 2025) at the  Shanghai Research In
   </div>
   <div class='paper-box-text' markdown="1">
 
-Yue Wu (武越)
+Yue Wu (武越) (和陈炫宏老师一起指导)
 <span>&#9993; wy710502827@gmail.com</span>  
 
 Yue Wu is currently working as a Research Assistant at the Shanghai Research Institute for Intelligent Autonomous Systems, incoming doctoral student in 2026. He obtained his master's degree from University of Southern California. His research currently focuses on 3D reconstruction and video generation. Moving forward, he aims to explore practical applications of AI in emerging domains such as low-altitude economy systems, climate changing and related real-world scenarios.
