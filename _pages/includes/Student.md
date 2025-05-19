@@ -58,6 +58,24 @@ Xinyao Wang is a direct PhD student (class of 2025) at the  Shanghai Research In
 
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">武越</div>
+      < img src='https://github.com/TyrionWuYue/assets/raw/main/imgs/prof_pic.jpg' alt="Yue Wu" width="70%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+Yue Wu (武越)
+<span>&#9993; wy710502827@gmail.com</span>  
+
+Yue Wu is currently working as a Research Assistant at the Shanghai Research Institute for Intelligent Autonomous Systems, incoming doctoral student in 2026. He obtained his master's degree from University of Southern California. His research currently focuses on 3D reconstruction and video generation. Moving forward, he aims to explore practical applications of AI in emerging domains such as low-altitude economy systems, climate changing and related real-world scenarios.
+
+武越现在是同济大学上海自主智能无人系统科学中心的研究助理，将于2026年作为博士生加入。他在南加州大学获得硕士学位。他目前的主要研究方向为3D重建和视频生成。未来将聚焦于探索人工智能在低空经济系统、气候变化和相关现实场景等新兴领域的实际应用。
+
+</div>
+
 <div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">Meilu Yuan</div> <img src='https://mluyuan.github.io/mlu_yuan.jpg' alt="Meilu Yuan" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
 
 Meilu Yuan (袁美璐), Tongji University (同济大学), coadvised with Xuanhong Chen (和陈炫宏老师一起指导)
