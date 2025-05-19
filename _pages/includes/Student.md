@@ -67,7 +67,7 @@ Meilu Yuan is currently a doctoral student at Tongji University. She obtained he
 
 
 <div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">王馨瑶</div>
-<img src='https://github.com/user-attachments/assets/1e1f8e27-0ebc-4707-b0d3-1c8ba9ebe745' alt="Xinyao Wang" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<img src='https://github.com/user-attachments/assets/1e1f8e27-0ebc-4707-b0d3-1c8ba9ebe745' alt="Xinyao Wang" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
 Xinyao Wang (王馨瑶), Tongji University (同济大学), coadvised with Yue Song（和宋越老师一起指导）</div>
 ✉ wxy366978373@163.com</div>
 
