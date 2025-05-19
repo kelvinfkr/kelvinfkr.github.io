@@ -60,7 +60,7 @@ Xinyao Wang is a direct PhD student (class of 2025) at the  Shanghai Research In
 
 <div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">Meilu Yuan</div> <img src='https://mluyuan.github.io/mlu_yuan.jpg' alt="Meilu Yuan" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
 
-Meilu Yuan (袁美璐), Tongji University (同济大学)
+Meilu Yuan (袁美璐), Tongji University (同济大学), coadvised with Xuanhong Chen (和陈炫宏老师一起指导)
 
 <span>&#9993; 2510251@tongji.edu.cn</span>
 
