@@ -13,7 +13,7 @@
   <div class='paper-box-text' markdown="1">
 Danru Yang (杨丹茹), Tongji University (同济大学)
 
-<span>&#9993; 2931672208@qq.com</span>  
+<span>&#9993; danruyang@outlook.com</span>  
 
 Yang Danru is a direct doctoral student of the 2026 grade at the Shanghai Research Institute for Intelligent Autonomous Systems (National Key Laboratory of Autonomous Intelligent Unmanned Systems), Tongji University.She studied Applied Chemistry at Tongji University for her undergraduate degree. Her current research direction is large language models, and she will focus on the direction of ai for science in the future. In terms of scientific research, she was once in charge of a national-level innovation and entrepreneurship project, which won the first prize at the university level.
 
