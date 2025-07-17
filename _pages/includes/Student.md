@@ -61,6 +61,15 @@ Xinyao Wang is a direct PhD student (class of 2025) at the  Shanghai Research In
 
 </div>
 
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">尹铭昊</div> <img src='https://s21.ax1x.com/2025/07/17/pV3icGj.jpg' alt="Minghao Yin" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+Minghao Yin (尹铭昊), Tongji University (同济大学)
+Email: yinminghaozsa@163.com
+
+Minghao Yin is currently a doctoral student at the Shanghai Research Institute for Intelligent Autonomous Systems, Tongji University. He obtained his master's degree from Tongji University as well. His research focuses on the practical applications of artificial intelligence in emerging fields such as urban low-altitude economy and resilient  low-carbon power systems. In terms of scientific research, his research papers have been published in Journal of Hunan University (Natural Sciences) and Materials.
+尹铭昊是同济大学上海自主智能无人系统科学中心的2025级博士生，硕士毕业于同济大学。他目前的研究聚焦于人工智能在城市低空经济、韧性低碳电力系统等新兴实际领域的应用。在科研方面，他曾在《湖南大学学报(自然科学版)》和《Materials》等期刊上发表过论文。
+
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
