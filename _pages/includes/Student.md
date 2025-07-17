@@ -61,7 +61,7 @@ Xinyao Wang is a direct PhD student (class of 2025) at the  Shanghai Research In
 
 </div>
 
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">尹铭昊</div> <img src='https://s21.ax1x.com/2025/07/17/pV3icGj.jpg' alt="Minghao Yin" width="100%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">尹铭昊</div> <img src='https://s21.ax1x.com/2025/07/17/pV3icGj.jpg' alt="Minghao Yin" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
 Minghao Yin (尹铭昊), Tongji University (同济大学)
 Email: yinminghaozsa@163.com
 
