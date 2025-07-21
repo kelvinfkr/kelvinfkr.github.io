@@ -75,7 +75,7 @@
 公布高分辨率（4km）降水数据及评估基准。
 
 Download 数据集: [Google Drive](https://drive.google.com/file/d/1cvzT3n9N7o06YhykdakOsboyqwTavkEP/view) | 代码仓库: [Github](https://github.com/neuralchen/RainNet?tab=readme-ov-file).
-</div> </div>
+</div> 
 
 # 🤔 Resources 资源
 
