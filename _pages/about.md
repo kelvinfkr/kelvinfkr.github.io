@@ -20,9 +20,3 @@ redirect_from:
 <span class="anchor" id="-Student"></span>
 {% include_relative includes/Student.md %}
 
-<div>
-  <span class="anchor" id="-Writing"></span>
-</div>
-<div>
-  {% include_relative includes/Writing.md %}
-</div>
