@@ -77,5 +77,10 @@
 Download 数据集: [Google Drive](https://drive.google.com/file/d/1cvzT3n9N7o06YhykdakOsboyqwTavkEP/view) | 代码仓库: [Github](https://github.com/neuralchen/RainNet?tab=readme-ov-file).
 </div> </div>
 
-#🤔 Resources 资源
-AI天气预报发展历程与论文整理 by 尹铭昊 
+# 🤔 Resources 资源
+
+<div class="resource-box">
+  <h3>AI天气预报发展历程与论文整理</h3>
+  <p>整理者：尹铭昊</p>
+  <a href="https://drive.google.com/file/d/1po7fmvepcOrhQakiMIOe90rCAMSAuVlq/view?usp=sharing" class="btn">查看文档 →</a>
+</div>
