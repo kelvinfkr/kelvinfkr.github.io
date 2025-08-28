@@ -3,7 +3,7 @@
 <img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/group1.jpg' alt="组内聚餐" width="80%">
 
 
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">卫雯奇</div> < img src='https://avatars.githubusercontent.com/u/73982917?v=4' alt="Wenqi Wei" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">卫雯奇</div> <img src='https://avatars.githubusercontent.com/u/73982917?v=4' alt="Wenqi Wei" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
 Wenqi Wei (卫雯奇), Tongji University (同济大学), Email:wai@tongji.edu.cn (和何斌老师一起指导)
 
 Wenqi Wei is currently a doctoral student majoring in Intelligent Science and Technology at Tongji University. She has obtained her master's degree from the Urban Mobility Institute of Tongji University. Her research focus is on operational decision-making in transportation. In terms of competitions, she has won the National Second Prize in the China Undergraduate Mathematical Modeling Contest, and the H Award in the American Mathematical Contest in Modeling. Regarding academic achievements, she has published papers in journals such as 《Transportmetrica A》.
