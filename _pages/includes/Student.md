@@ -115,7 +115,7 @@ Meilu Yuan is currently a doctoral student at Tongji University. She obtained he
 - 在《科学计量学》（*Scientometrics*）和《现代情报》（*Modern Information*）上发表过论文。 
 
 </div>
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">Xiaohan Xu</div> <img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/Xuxiaohan.jpg' alt="Xiaohan Xu" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">Xiaohan Xu</div> <img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/Xuxiaohan.jpg' alt="Xiaohan Xu" width="160%"> </div> </div> <div class='paper-box-text' markdown="1">
 
 Xiaohan Xu (徐笑涵), Tongji University (同济大学), Email: kidhanhan123@gmail.com (和何斌老师一起指导)
 
