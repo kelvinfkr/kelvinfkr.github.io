@@ -3,6 +3,15 @@
 <img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/group1.jpg' alt="组内聚餐" width="80%">
 
 
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">卫雯奇</div> < img src='https://avatars.githubusercontent.com/u/73982917?v=4' alt="Wenqi Wei" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
+Wenqi Wei (卫雯奇), Tongji University (同济大学), Email:wai@tongji.edu.cn (和何斌老师一起指导)
+
+Wenqi Wei is currently a doctoral student majoring in Intelligent Science and Technology at Tongji University. She has obtained her master's degree from the Urban Mobility Institute of Tongji University. Her research focus is on operational decision-making in transportation. In terms of competitions, she has won the National Second Prize in the China Undergraduate Mathematical Modeling Contest, and the H Award in the American Mathematical Contest in Modeling. Regarding academic achievements, she has published papers in journals such as 《Transportmetrica A》.
+
+卫雯奇现在就读于同济大学智能科学与技术专业，博士一年级，硕士毕业于同济大学城市交通研究院。她的研究方向是智能运筹决策。在竞赛方面，她曾获全国大学生数学建模竞赛二等奖，美国大学生数学建模竞赛H奖。在科研方面，她曾在《Transportmetrica A》等期刊上发表论文。
+
+</div>
+
 <div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">沈启立</div> <img src='https://github.com/shenqili123/assets/raw/main/sql1.jpg' alt="Qili Shen" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
 Qili Shen (沈启立), Tongji University (同济大学), Email:2311788@tongji.edu.cn (和宋越老师一起指导)
 
