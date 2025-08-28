@@ -115,7 +115,7 @@ Meilu Yuan is currently a doctoral student at Tongji University. She obtained he
 - 在《科学计量学》（*Scientometrics*）和《现代情报》（*Modern Information*）上发表过论文。 
 
 </div>
-<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">Xiaohan Xu</div> <img src='https://github.com/kelvinfkr/kelvinfkr.github.io/blob/main/_data/Xuxiaohan.jpg' alt="Xiaohan Xu" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
+<div class='paper-box'> <div class='paper-box-image'> <div> <div class="badge">Xiaohan Xu</div> <img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/Xuxiaohan.jpg' alt="Xiaohan Xu" width="80%"> </div> </div> <div class='paper-box-text' markdown="1">
 
 Xiaohan Xu (徐笑涵), Tongji University (同济大学), Email: kidhanhan123@gmail.com (和何斌老师一起指导)
 Xu Xiaohan is a postdoctoral fellow at the Shanghai Research Institute for Intelligent Autonomous Systems (National Key Laboratory of Autonomous Intelligent Unmanned Systems), Tongji University. His current research focuses on smart cities and resilience, such as multi-modal public transit network reliability, critical infrastructure resilience, etc. In terms of scientific research, he has published 7 papers as the first author (including cases where the supervisor is the first author and the student is the second author).
