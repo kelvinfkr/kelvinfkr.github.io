@@ -84,3 +84,7 @@ Download 数据集: [Google Drive](https://drive.google.com/file/d/1cvzT3n9N7o06
   <p>整理者：尹铭昊</p>
   <a href="https://drive.google.com/file/d/1po7fmvepcOrhQakiMIOe90rCAMSAuVlq/view?usp=sharing" class="btn">查看文档(Google Drive)</a>
 </div>
+
+<div class="resource-box"> <h3> 课题组论文阅读报告1(2025/7-2025/9)</h3> [报告1](https://drive.google.com/file/d/11CkuKoWtBocfYouxiklIbCX3AZWCkaJD/view?usp=drive_link)</div>
+
+
