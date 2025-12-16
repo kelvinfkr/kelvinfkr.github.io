@@ -88,3 +88,6 @@ Download 数据集: [Google Drive](https://drive.google.com/file/d/1cvzT3n9N7o06
 <div class="resource-box"> <h3> 课题组论文阅读报告1(2025/7-2025/9)</h3> [报告1](https://drive.google.com/file/d/11CkuKoWtBocfYouxiklIbCX3AZWCkaJD/view?usp=drive_link)</div>
 
 
+- 卫雯奇翻译的平均场博弈论教材: [翻译1](https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/main/meanfieldgame_translate.pdf)
+
+
