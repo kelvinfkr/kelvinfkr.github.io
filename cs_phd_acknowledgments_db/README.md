@@ -7,8 +7,11 @@
 - **学校（Top 11，暂定）**：MIT, Stanford, CMU, UC Berkeley, Cornell, University of Washington,
   Princeton, Georgia Tech, UIUC, UT Austin, University of Michigan
 - **年份**：2020–2025（按学位授予/答辩年份）
-- **院系范围**：仅计算机科学方向博士学位（EECS 类学校中明确标注 CS/Computer Science 方向；
-  纯电气工程方向不收录）
+- **院系范围**：原则上仅计算机科学方向博士学位。**例外（方法论说明）**：MIT 的博士学位由
+  EECS（Electrical Engineering and Computer Science）系统一授予，官方学位记录不区分
+  "CS 方向"与"EE 方向"子学位，因此 MIT 批次的范围 = 该系当年全部 EECS PhD/ScD 毕业生，
+  不逐篇猜测研究方向归属（这是一个学校级别的、有据可查的方法论决定，而非对单篇论文的猜测）。
+  其余学校若同样存在系级无法拆分 CS/EE 的情况，将在对应批次中明确记录同样的处理方式。
 - **来源限制**：仅使用学校官方学位授予页面、官方论文库（如 DSpace、ProQuest 机构版、
   eScholarship 等）、学校图书馆目录、作者本人公开论文主页。不使用非官方镜像、
   盗版站点或未经确认来源的转载。
@@ -16,8 +19,10 @@
 ## 批次状态
 
 批次进度与已知阻塞项记录在每次批次的 `batch_summary.md` 中（按批次追加或建立
-`batch_summary_<school>_<year>.md`）。当前状态：**执行被环境网络策略阻塞**
-（见仓库根目录会话记录），尚未产出任何论文记录。
+`batch_summary_<school>_<year>.md`）。当前状态：**MIT 2020 EECS 试点批次已完成第一轮**
+（102 篇官方名单、101 篇公开PDF已处理、1861 条致谢人物记录），详见 `batch_summary.md`。
+已知主要待办：致谢文本提取受限于约4000字符的单页截断，约6成论文的提取被截断，需要
+二次抓取补全（已在 `exceptions.csv` 中逐条记录）。
 
 ## 目录结构
 
