@@ -86,7 +86,7 @@
       </div>
       <div class="publication-body">
         <h3><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/3fbf0c1ea0716c03dea93bb6be78dd6f-Paper-Conference.pdf">RainNet: A large-scale imagery dataset and benchmark for spatial precipitation downscaling</a></h3>
-        <p class="authors">Xuanhong Chen, <strong>Kairui Feng</strong><sup>*</sup>, et al.</p>
+        <p class="authors">Xuanhong Chen<sup>*</sup>, <strong>Kairui Feng</strong><sup>*</sup>, et al.</p>
         <p>Introduces a large real-world precipitation dataset and benchmark for learning high-resolution rainfall fields.</p>
         <div class="publication-links">
           <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/3fbf0c1ea0716c03dea93bb6be78dd6f-Paper-Conference.pdf">Paper</a>
