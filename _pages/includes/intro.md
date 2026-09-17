@@ -68,13 +68,13 @@
   </div>
   <div class="about-copy bilingual-about">
     <div class="language-block">
-      <p>I am a Professor at Tongji University and a full-time mentor at Shanghai Innovation Institute. At <a href="https://srias.tongji.edu.cn/main.htm">the National Key Laboratory of Autonomous Intelligent Unmanned Systems</a>, I collaborate with <a href="https://robot.tongji.edu.cn">Prof. Bin He (何斌)</a>. My work connects reinforcement learning and AI for Science with consequential problems in climate, energy, resilient infrastructure, and autonomous systems. My long-term goal is to close the loop from scientific models and digital twins to real physical systems.</p>
+      <p>I am a Professor at Tongji University and a full-time mentor at Shanghai Innovation Institute. At <a href="https://srias.tongji.edu.cn/main.htm">the National Key Laboratory of Autonomous Intelligent Unmanned Systems</a>, I collaborate with <a href="https://robot.tongji.edu.cn">Prof. Bin He (何斌)</a>. My research centers on reinforcement learning and AI for Science, spanning world models, language-model agents, agent post-training, and self-improvement. I study decision-making and control across simulated environments, autonomous systems, and real physical systems, with the long-term goal of closing the loop from scientific models and digital twins to real-world deployment.</p>
 
       <p>I received engineering and mathematics degrees from Tsinghua University, and a Ph.D. in Engineering from Princeton University under <a href="https://cee.princeton.edu/people/ning-lin">Prof. Ning Lin</a>. I subsequently conducted postdoctoral research at Princeton and was a STEP Research Fellow with <a href="https://scholar.princeton.edu/oppenheimer">Prof. Michael Oppenheimer</a> at C-PREE and SPIA.</p>
     </div>
 
     <div class="language-block language-block--cn">
-      <p>我现任同济大学教授、上海创智学院全时导师。在同济大学<a href="https://srias.tongji.edu.cn/main.htm">自主智能无人系统全国重点实验室</a>，我与<a href="https://robot.tongji.edu.cn">何斌教授</a>合作。我的研究将强化学习和 AI4S及自主系统、世界模型、语言模型等仿真/真实环境相结合，长期目标是打通从科学模型、数字孪生到真实物理系统的闭环。</p>
+      <p>我现任同济大学教授、上海创智学院全时导师。在同济大学<a href="https://srias.tongji.edu.cn/main.htm">自主智能无人系统全国重点实验室</a>，我与<a href="https://robot.tongji.edu.cn">何斌教授</a>合作。我的研究聚焦强化学习与 AI4S，涵盖世界模型、语言模型智能体、智能体后训练与自我改进，并探索其在仿真环境、自主系统和真实物理系统中的决策与控制。长期目标是打通从科学模型、数字孪生到真机部署的闭环。</p>
 
       <p>我在清华大学获得工学学位和数学第二学士学位，在普林斯顿大学获得工程学博士学位，导师为 <a href="https://cee.princeton.edu/people/ning-lin">Ning Lin 教授</a>。此后，我继续在普林斯顿大学开展博士后研究，并在 C-PREE 和 SPIA 担任 STEP 研究员，合作导师为 <a href="https://scholar.princeton.edu/oppenheimer">Michael Oppenheimer 教授</a>。</p>
     </div>
