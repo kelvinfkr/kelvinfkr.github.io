@@ -450,16 +450,7 @@
     }
 }
 
-.about-copy .language-label {
-    margin-bottom: 0.75rem;
-    color: #147ba5;
-    font-family: $monospace;
-    font-size: 0.72rem !important;
-    font-weight: 800;
-    letter-spacing: 0.12em;
-}
-
-.language-block--cn p:not(.language-label) {
+.language-block--cn p {
     color: #4b5f73;
 }
 

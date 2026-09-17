@@ -103,7 +103,7 @@
       </div>
       <div class="publication-body">
         <h3><a href="https://www.nature.com/articles/s41467-019-11755-z">Climate change exacerbates hurricane flood hazards along US Atlantic and Gulf Coasts in spatially varying patterns</a></h3>
-        <p class="authors">Reza Marsooli, Ning Lin, Kerry Emanuel, <strong>Kairui Feng</strong> <span class="author-note">(last author)</span></p>
+        <p class="authors">Reza Marsooli, Ning Lin, Kerry Emanuel, <strong>Kairui Feng</strong></p>
         <p>Quantifies how sea-level rise and changing tropical-cyclone climatology reshape hurricane flood hazards across the US Atlantic and Gulf Coasts.</p>
         <div class="publication-links"><a href="https://www.nature.com/articles/s41467-019-11755-z">Paper</a></div>
       </div>
@@ -116,7 +116,7 @@
       </div>
       <div class="publication-body">
         <h3><a href="https://www.nature.com/articles/s41467-019-12810-5">Solar and wind energy enhances drought resilience and groundwater sustainability</a></h3>
-        <p class="authors">Xiaogang He, <strong>Kairui Feng</strong> <span class="author-note">(second author)</span>, Xiaoyuan Li, Amy B. Craft, Yoshihide Wada, Peter Burek, Eric F. Wood, Justin Sheffield</p>
+        <p class="authors">Xiaogang He, <strong>Kairui Feng</strong>, Xiaoyuan Li, Amy B. Craft, Yoshihide Wada, Peter Burek, Eric F. Wood, Justin Sheffield</p>
         <p>Shows how solar and wind deployment can improve drought resilience and groundwater sustainability by easing water–food–energy trade-offs.</p>
         <div class="publication-links"><a href="https://www.nature.com/articles/s41467-019-12810-5">Paper</a></div>
       </div>
