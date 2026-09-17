@@ -87,7 +87,7 @@
       </div>
       <div class="publication-body">
         <h3><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/3fbf0c1ea0716c03dea93bb6be78dd6f-Paper-Conference.pdf">RainNet: A large-scale imagery dataset and benchmark for spatial precipitation downscaling</a></h3>
-        <p class="authors">Xuanhong Chen, <strong>Kairui Feng</strong> (co-first), et al.</p>
+        <p class="authors">Xuanhong Chen, <strong>Kairui Feng</strong><sup>*</sup>, et al.</p>
         <p>Introduces a large real-world precipitation dataset and benchmark for learning high-resolution rainfall fields.</p>
         <div class="publication-links">
           <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/3fbf0c1ea0716c03dea93bb6be78dd6f-Paper-Conference.pdf">Paper</a>
@@ -116,7 +116,7 @@
       </div>
       <div class="publication-body">
         <h3><a href="https://www.nature.com/articles/s41467-019-12810-5">Solar and wind energy enhances drought resilience and groundwater sustainability</a></h3>
-        <p class="authors">Xiaogang He, <strong>Kairui Feng</strong>, Xiaoyuan Li, Amy B. Craft, Yoshihide Wada, Peter Burek, Eric F. Wood, Justin Sheffield</p>
+        <p class="authors">Xiaogang He, <strong>Kairui Feng</strong><sup>*</sup>, Xiaoyuan Li, Amy B. Craft, Yoshihide Wada, Peter Burek, Eric F. Wood, Justin Sheffield</p>
         <p>Shows how solar and wind deployment can improve drought resilience and groundwater sustainability by easing water–food–energy trade-offs.</p>
         <div class="publication-links"><a href="https://www.nature.com/articles/s41467-019-12810-5">Paper</a></div>
       </div>
