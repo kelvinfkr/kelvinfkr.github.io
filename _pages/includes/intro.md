@@ -1,4 +1,13 @@
 <section class="research-hero" aria-labelledby="hero-title">
+  <svg class="hero-constellation" viewBox="0 0 560 360" aria-hidden="true" focusable="false">
+    <path class="constellation-line" d="M42 278 C132 186 181 232 254 154 S390 61 520 104" />
+    <path class="constellation-line constellation-line--secondary" d="M87 71 C170 118 205 79 286 126 S420 238 518 266" />
+    <path class="constellation-orbit" d="M147 244 C229 318 422 309 470 190 C519 69 355 30 237 73 C117 117 68 173 147 244 Z" />
+    <circle class="constellation-node constellation-node--one" cx="147" cy="244" r="6" />
+    <circle class="constellation-node constellation-node--two" cx="286" cy="126" r="7" />
+    <circle class="constellation-node constellation-node--three" cx="470" cy="190" r="5" />
+    <circle class="constellation-node constellation-node--four" cx="520" cy="104" r="8" />
+  </svg>
   <div class="hero-copy">
     <p class="hero-eyebrow">KAIRUI FENG · 冯恺睿</p>
     <h1 id="hero-title">Reinforcement learning<br><span>for the physical world.</span></h1>
@@ -58,6 +67,66 @@
         <li>Optimization and learning theory</li>
       </ul>
     </article>
+  </div>
+
+  <div class="system-loop" aria-labelledby="system-loop-title">
+    <div class="system-loop__intro">
+      <p class="section-kicker">CLOSED LOOP</p>
+      <h3 id="system-loop-title">From equations to actions—and back.</h3>
+      <p>Scientific structure becomes a fast world model; an agent turns prediction into decisions; physical observations close the learning loop.</p>
+      <p class="system-loop__cn">从科学方程、世界模型到智能体决策与真机反馈，形成可验证、可持续改进的闭环。</p>
+    </div>
+
+    <div class="system-loop__diagram" role="img" aria-label="A closed loop connecting scientific models, world models, learning agents, and physical systems">
+      <article class="loop-node">
+        <span class="loop-node__index">01</span>
+        <svg viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+          <path d="M5 30c7-19 13 13 20-6s11 12 18-6" />
+          <path d="M6 39h36M10 8v32" />
+        </svg>
+        <strong>Scientific model</strong>
+        <small>ODE · PDE · physics</small>
+      </article>
+
+      <article class="loop-node">
+        <span class="loop-node__index">02</span>
+        <svg viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+          <rect x="8" y="8" width="32" height="32" rx="4" />
+          <path d="M8 19h32M8 30h32M19 8v32M30 8v32" />
+          <circle cx="30" cy="19" r="4" />
+        </svg>
+        <strong>World model</strong>
+        <small>surrogate · digital twin</small>
+      </article>
+
+      <article class="loop-node">
+        <span class="loop-node__index">03</span>
+        <svg viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+          <circle cx="12" cy="24" r="5" />
+          <circle cx="36" cy="12" r="5" />
+          <circle cx="36" cy="36" r="5" />
+          <path d="M17 22l14-8M17 26l14 8" />
+        </svg>
+        <strong>Learning agent</strong>
+        <small>RL · planning · post-training</small>
+      </article>
+
+      <article class="loop-node">
+        <span class="loop-node__index">04</span>
+        <svg viewBox="0 0 48 48" aria-hidden="true" focusable="false">
+          <path d="M9 35V20l15-9 15 9v15l-15 8z" />
+          <path d="M24 11v32M9 20l15 9 15-9" />
+          <circle cx="24" cy="29" r="4" />
+        </svg>
+        <strong>Physical system</strong>
+        <small>robot · energy · infrastructure</small>
+      </article>
+    </div>
+
+    <div class="system-loop__feedback">
+      <span>REAL-WORLD FEEDBACK</span>
+      <p>Measurements, failures, and interventions update both the model and the agent.</p>
+    </div>
   </div>
 </section>
 

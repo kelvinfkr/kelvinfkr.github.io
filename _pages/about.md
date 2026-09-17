@@ -18,3 +18,5 @@ redirect_from:
 {% include_relative includes/contact.md %}
 
 {% include_relative includes/resources.md %}
+
+<script src="{{ '/assets/js/home-motion.js' | relative_url }}" defer></script>
