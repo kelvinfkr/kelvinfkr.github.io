@@ -74,7 +74,7 @@
     </div>
 
     <div class="language-block language-block--cn">
-      <p>我现任同济大学教授、上海创智学院全时导师。在同济大学<a href="https://srias.tongji.edu.cn/main.htm">自主智能无人系统全国重点实验室</a>，我与<a href="https://robot.tongji.edu.cn">何斌教授</a>合作。我的研究将强化学习和 AI4S 与气候、能源、韧性基础设施及自主系统等现实问题相结合，长期目标是打通从科学模型、数字孪生到真实物理系统的闭环。</p>
+      <p>我现任同济大学教授、上海创智学院全时导师。在同济大学<a href="https://srias.tongji.edu.cn/main.htm">自主智能无人系统全国重点实验室</a>，我与<a href="https://robot.tongji.edu.cn">何斌教授</a>合作。我的研究将强化学习和 AI4S及自主系统、世界模型、语言模型等仿真/真实环境相结合，长期目标是打通从科学模型、数字孪生到真实物理系统的闭环。</p>
 
       <p>我在清华大学获得工学学位和数学第二学士学位，在普林斯顿大学获得工程学博士学位，导师为 <a href="https://cee.princeton.edu/people/ning-lin">Ning Lin 教授</a>。此后，我继续在普林斯顿大学开展博士后研究，并在 C-PREE 和 SPIA 担任 STEP 研究员，合作导师为 <a href="https://scholar.princeton.edu/oppenheimer">Michael Oppenheimer 教授</a>。</p>
     </div>
