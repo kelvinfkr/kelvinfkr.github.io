@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kairui Feng(冯恺睿)"
-description              : "Professor at The National Key Laboratory of Autonomous Intelligent Unmanned Systems, Tongji Univesrity."
+title                    : "Kairui Feng (冯恺睿)"
+description              : "Associate Professor at Tongji University working on reinforcement learning for AI4S, scientific foundation models, efficient inference, and learning theory."
 repository               : "kelvinfkr/kelvinfkr.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Kairui Feng (冯恺睿)"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "Tongji University"
+  bio              : "RL for AI4S · Efficient & Principled Learning"
   location         : "Shanghai"
   employer         :
   pubmed           : 

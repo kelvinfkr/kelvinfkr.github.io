@@ -1,93 +1,98 @@
-# 📝 Selected Publications / 代表性论文
+<section class="home-section" id="selected-work">
+  <div class="section-heading section-heading--split">
+    <div>
+      <p class="section-kicker">SELECTED WORK</p>
+      <h2>From theory to physical impact.</h2>
+    </div>
+    <a class="text-link" href="https://scholar.google.com/citations?user=4N5hE8YAAAAJ">All publications <span aria-hidden="true">↗</span></a>
+  </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS</div><img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/pnas2025.jpg' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
-[Reinforcement learning–based adaptive strategies for climate change adaptation: An application for coastal flood risk management](https://www.pnas.org/doi/10.1073/pnas.2402826122)
-  
-  《基于强化学习的自适应气候适应策略：纽约曼哈顿海岸洪水风险管理应用》 
-  
-   **Kairui Feng**, Ning Lin, et al.
+  <div class="publication-list">
+    <article class="publication publication--featured">
+      <div class="publication-meta">
+        <span class="venue">ICLR 2026</span>
+        <span>RL for AI4S · Theory</span>
+      </div>
+      <div class="publication-body">
+        <h3><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/f24272663fafadf87616f488e13f99d0-Abstract-Conference.html">On the Computational Limits of AI4S-RL: A Unified ε-N Analysis</a></h3>
+        <p class="authors">Qili Shen, <strong>Kairui Feng</strong>, Ang He, Xuanhong Chen, Dake Zhang</p>
+        <p>Quantifies the minimum computational cost required for an AI4S surrogate to support reliable RL, connecting surrogate accuracy, physical resolution, and policy quality in one probabilistic framework.</p>
+        <div class="publication-links">
+          <a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/f24272663fafadf87616f488e13f99d0-Paper-Conference.pdf">Paper</a>
+          <a href="https://openreview.net/forum?id=BZnnIeeQox">OpenReview</a>
+        </div>
+      </div>
+    </article>
 
-- Reinforcement learning reduces coastal flood adaptation costs by up to 77%.
-强化学习可将沿海洪水适应成本最多降低77%。
+    <article class="publication">
+      <div class="publication-meta">
+        <span class="venue">PNAS 2025</span>
+        <span>RL · Climate adaptation</span>
+      </div>
+      <div class="publication-body">
+        <h3><a href="https://www.pnas.org/doi/10.1073/pnas.2402826122">Reinforcement learning–based adaptive strategies for climate change adaptation</a></h3>
+        <p class="authors"><strong>Kairui Feng</strong>, Ning Lin, et al.</p>
+        <p>Uses reinforcement learning to coordinate protection, accommodation, and retreat under deep climate uncertainty, reducing coastal adaptation costs by up to 77%.</p>
+        <div class="publication-links"><a href="https://www.pnas.org/doi/10.1073/pnas.2402826122">Paper</a></div>
+      </div>
+    </article>
 
+    <article class="publication">
+      <div class="publication-meta">
+        <span class="venue">ICLR 2026</span>
+        <span>Efficient 3D intelligence</span>
+      </div>
+      <div class="publication-body">
+        <h3><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/4b00a351b41358965613c118e87dc28c-Abstract-Conference.html">FastAvatar: Towards Unified and Fast 3D Avatar Reconstruction with Large Gaussian Reconstruction Transformers</a></h3>
+        <p class="authors">Yue Wu, Xuanhong Chen, Yufan Wu, Wen Li, Yuxi Lu, <strong>Kairui Feng</strong></p>
+        <p>A unified feedforward model that reconstructs high-fidelity 3D Gaussian avatars within seconds from a single image, multi-view observations, or monocular video.</p>
+        <div class="publication-links">
+          <a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/4b00a351b41358965613c118e87dc28c-Paper-Conference.pdf">Paper</a>
+          <a href="https://arxiv.org/abs/2508.19754">arXiv</a>
+        </div>
+      </div>
+    </article>
 
+    <article class="publication">
+      <div class="publication-meta">
+        <span class="venue">Nature Communications 2025</span>
+        <span>Climate risk · Infrastructure</span>
+      </div>
+      <div class="publication-body">
+        <h3><a href="https://www.nature.com/articles/s41467-025-59737-8">Hurricane Ida's blackout–heatwave compound risk in a changing climate</a></h3>
+        <p class="authors"><strong>Kairui Feng</strong>, Ning Lin, et al.</p>
+        <p>Shows how climate change amplifies compound blackout–heatwave risk and identifies the dominant physical drivers of future exposure.</p>
+        <div class="publication-links"><a href="https://www.nature.com/articles/s41467-025-59737-8">Paper</a></div>
+      </div>
+    </article>
 
-- RL integrates protection, accommodation, and retreat strategies for higher efficiency.
-强化学习整合防护、适应与退避策略，提升经济效益。
+    <article class="publication">
+      <div class="publication-meta">
+        <span class="venue">Nature Communications 2022</span>
+        <span>Resilience · Decision science</span>
+      </div>
+      <div class="publication-body">
+        <h3><a href="https://doi.org/10.1038/s41467-022-32018-4">Tropical cyclone–blackout–heatwave compound hazard resilience in a changing climate</a></h3>
+        <p class="authors"><strong>Kairui Feng</strong>, Min Ouyang, Ning Lin</p>
+        <p>Develops a climate-aware power-system resilience model and identifies cost-effective infrastructure hardening strategies.</p>
+        <div class="publication-links"><a href="https://doi.org/10.1038/s41467-022-32018-4">Paper</a></div>
+      </div>
+    </article>
 
-
-- RL effectively controls tail risks and adapts to climate uncertainties.
-  强化学习有效控制尾部风险，适应气候不确定性。
-
-</div> </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/refs/heads/main/_data/nc2025.jpg' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
-[Hurricane Ida’s blackout-heatwave compound risk in a changing climate](https://www.nature.com/articles/s41467-025-59737-8)
-  
-  《气候变化背景下飓风“艾达”引发的停电-热浪复合风险评估》 
-  
-   **Kairui Feng**, Ning Lin, et al.
-
-- Return period of Ida-like compound events drops from 278 to 16.2 years under SSP5-8.5.
- “艾达级”复合灾害重现期将从278年降至16.2年（SSP5-8.5）
-
-- Heatwave intensification is the dominant driver, increasing risk by 3–5 times.
-热浪增强是风险上升的主要驱动因素，可使风险提升3–5倍
-
-- Study informs grid resilience and adaptation strategies, such as levee upgrades and distributed energy systems
-研究为电网韧性提升与气候适应策略（如加高海堤、分布式能源）提供量化依据
-
-</div> </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications</div><img src='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32018-4/MediaObjects/41467_2022_32018_Fig3_HTML.png' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
-  [Tropical cyclone-blackout-heatwave compound hazard resilience in a changing climate](https://doi.org/10.1038/s41467-022-32018-4) 
-  
-《气候变化下台风-停电-热浪复合灾害韧性研究》 
-  
-  **Kairui Feng**, Min Ouyang, Ning Lin
-  
-
-- Developed a pioneering model to project power outage resilience under evolving climate conditions.
-构建了创新模型，预测气候变化背景下电网停电韧性。
-
-- Proposed a cost-effective strategy to strengthen power systems against compound climate risks.
-提出低成本强化电力系统应对复合气候灾害的策略。
-  
-- Featured by [NSF](https://beta.nsf.gov/news/burying-short-sections-power-lines-could-drastically-reduce-hurricanes-impact-coastal), [The Hill](https://thehill.com/changing-america/resilience/natural-disasters/3606490-burying-just-5-percent-of-power-lines-would-improve-resilience-in-hurricane-prone-regions/), [Yahoo](http://ct.moreover.com/?a=48516502277&p=1pl&v=1&x=8SKzgY8upwY5q_fLSs922Q), [Mirage](http://ct.moreover.com/?a=48509341316&p=1pl&v=1&x=QTjKY8U3xGAsjn1-uI2XWg), [Vox](https://www.vox.com/energy-and-environment/2017/9/14/16301836/florida-irma-harvey-blackouts), etc.
-
-  
-</div> </div> 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='https://github.com/neuralchen/RainNet/raw/main/docs/img/HRGT_201009539_201009571.webp' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
-[RainNet: A large-scale imagery dataset and benchmark for spatial precipitation downscaling](https://proceedings.neurips.cc/paper_files/paper/2022/file/3fbf0c1ea0716c03dea93bb6be78dd6f-Paper-Conference.pdf)
-  
-  《RainNet：空间降尺度降水图像数据集与基准》 
-  
-  Xuanhong Chen, **Kairui Feng (co-first)**, et al.
-
-- Compiled a comprehensive real-world precipitation dataset (1979–2018).
-收集并整理覆盖1979–2018年的大规模实测降水数据集。
-
-- Evaluated multiple downscaling methods to accurately model high-resolution rainfall patterns.
-系统评估多种降尺度方法，提升高分辨率降水预测精度。
-
-- Provided high-resolution (4km) rainfall dataset and benchmark tools.
-公布高分辨率（4km）降水数据及评估基准。
-
-Download 数据集: [Google Drive](https://drive.google.com/file/d/1cvzT3n9N7o06YhykdakOsboyqwTavkEP/view) | 代码仓库: [Github](https://github.com/neuralchen/RainNet?tab=readme-ov-file).
-</div> </div> 
-
-# 🤔 Resources 资源
-
-<div class="resource-box">
-  <h3>AI天气预报发展历程与论文整理(2025/7)</h3>
-  <p>整理者：尹铭昊</p>
-  <a href="https://drive.google.com/file/d/1po7fmvepcOrhQakiMIOe90rCAMSAuVlq/view?usp=sharing" class="btn">查看文档(Google Drive)</a>
-</div>
-
-<div class="resource-box"> <h3> 课题组论文阅读报告1(2025/7-2025/9)</h3> [报告1](https://drive.google.com/file/d/11CkuKoWtBocfYouxiklIbCX3AZWCkaJD/view?usp=drive_link)</div>
-
-
-- 卫雯奇翻译的平均场博弈论教材: [翻译1](https://raw.githubusercontent.com/kelvinfkr/kelvinfkr.github.io/main/meanfieldgame_translate.pdf)
-
-
+    <article class="publication">
+      <div class="publication-meta">
+        <span class="venue">NeurIPS 2022</span>
+        <span>AI for weather</span>
+      </div>
+      <div class="publication-body">
+        <h3><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/3fbf0c1ea0716c03dea93bb6be78dd6f-Paper-Conference.pdf">RainNet: A large-scale imagery dataset and benchmark for spatial precipitation downscaling</a></h3>
+        <p class="authors">Xuanhong Chen, <strong>Kairui Feng</strong> (co-first), et al.</p>
+        <p>Introduces a large real-world precipitation dataset and benchmark for learning high-resolution rainfall fields.</p>
+        <div class="publication-links">
+          <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/3fbf0c1ea0716c03dea93bb6be78dd6f-Paper-Conference.pdf">Paper</a>
+          <a href="https://github.com/neuralchen/RainNet">Code</a>
+        </div>
+      </div>
+    </article>
+  </div>
+</section>

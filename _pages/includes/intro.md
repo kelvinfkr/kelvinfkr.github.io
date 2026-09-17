@@ -1,19 +1,76 @@
+<section class="research-hero" aria-labelledby="hero-title">
+  <div class="hero-copy">
+    <p class="hero-eyebrow">KAIRUI FENG · 冯恺睿</p>
+    <h1 id="hero-title">Reinforcement learning<br><span>for the physical world.</span></h1>
+    <p class="hero-lead">I build AI4S systems that move from scientific models and digital twins to reliable decisions on real machines.</p>
+    <p class="hero-lead hero-lead-cn">让强化学习走出仿真，在真实科学与工程系统中产生可测量、可复现的效果。</p>
+    <div class="hero-actions">
+      <a class="hero-button hero-button--primary" href="https://scholar.google.com/citations?user=4N5hE8YAAAAJ">Google Scholar</a>
+      <a class="hero-button" href="mailto:kelvinfkr@tongji.edu.cn">Email</a>
+      <a class="hero-button" href="https://orcid.org/0000-0001-8978-2480">ORCID</a>
+    </div>
+  </div>
+  <div class="hero-profile">
+    <img src="/images/ry_profile.jpeg" alt="Kairui Feng">
+    <p><strong>Associate Professor</strong><br>Tongji University</p>
+    <p class="hero-affiliation">National Key Laboratory of Autonomous Intelligent Unmanned Systems</p>
+  </div>
+</section>
 
-I work at [The National Key Laboratory of Autonomous Intelligent Unmanned Systems](https://srias.tongji.edu.cn/main.htm), Tongji University as a professor. In the lab, I cowork with [He Bin (何斌)](https://robot.tongji.edu.cn).
+<section class="home-section" id="research">
+  <div class="section-heading">
+    <p class="section-kicker">RESEARCH PROGRAM</p>
+    <h2>Prediction is only the beginning.</h2>
+    <p>I am interested in the full loop: learning a scientific world model, making decisions under uncertainty, and validating those decisions in physical systems.</p>
+  </div>
 
-I am now working on smart cities, community resilience, climate change and energy saving devices and strategies. If you are seeking any form of **academic cooperation**, please feel free to email me at [kelvinfkr@tongji.edu.cn](mailto:kelvinfkr@tongji.edu.cn). I will have a Ph.D. opening next year and looking for RAs. 
+  <div class="research-grid">
+    <article class="research-card research-card--accent">
+      <span class="research-index">01</span>
+      <h3>RL for AI4S</h3>
+      <p>Safe, robust, and data-efficient sequential decision-making for systems governed by physical laws.</p>
+      <p class="research-cn">面向物理系统的安全、鲁棒、数据高效强化学习。</p>
+      <ul>
+        <li>AI4S surrogate environments</li>
+        <li>Sim-to-real and digital twins</li>
+        <li>Climate, energy, and autonomy</li>
+      </ul>
+    </article>
+    <article class="research-card">
+      <span class="research-index">02</span>
+      <h3>Scientific foundation models</h3>
+      <p>Predictive models for weather, climate, hazards, infrastructure, and other high-dimensional physical processes.</p>
+      <p class="research-cn">面向天气、气候、灾害和基础设施的科学基础模型。</p>
+      <ul>
+        <li>Forecasting across scales</li>
+        <li>Physics-aware learning</li>
+        <li>Forecast-to-decision systems</li>
+      </ul>
+    </article>
+    <article class="research-card">
+      <span class="research-index">03</span>
+      <h3>Efficient & principled learning</h3>
+      <p>Inference acceleration, optimization, and training theory that make ambitious learning systems faster and more reliable.</p>
+      <p class="research-cn">推理加速、优化算法与训练理论。</p>
+      <ul>
+        <li>Fast neural inference</li>
+        <li>Model compression</li>
+        <li>Optimization and learning theory</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-I graduated from Tsinghua University with a bachelor's degree in engineering advised by [Quanwang Li (李全旺)](https://www.civil.tsinghua.edu.cn/ce/info/1134/1862.htm) and a dual bachelor degree in math advised by [Jun Ye（叶俊）](https://math.tsinghua.edu.cn/info/1099/1746.htm). I graduated with a Ph.D's degree in School of Engineering and Applied Science, Department of civil and environmental engineering advised by [Ning Lin](https://cee.princeton.edu/people/ning-lin) and also did a post doc there also. I also worked as a STEP research fellow under supervison of [Michael Oppenheimer](https://scholar.princeton.edu/oppenheimer) at Center for Policy Research on Energy and the Environment (C-PREE) and Princeton School of Public and International Affairs (SPIA) at Princeton University.
+<section class="home-section about-grid" id="about">
+  <div class="section-heading">
+    <p class="section-kicker">ABOUT</p>
+    <h2>Science, decisions, deployment.</h2>
+  </div>
+  <div class="about-copy">
+    <p>I am an Associate Professor at <a href="https://srias.tongji.edu.cn/main.htm">the National Key Laboratory of Autonomous Intelligent Unmanned Systems</a>, Tongji University, where I collaborate with <a href="https://robot.tongji.edu.cn">Prof. Bin He (何斌)</a>. My work connects reinforcement learning and AI for Science with consequential problems in climate, energy, resilient infrastructure, and autonomous systems.</p>
 
-I collaborate with Young experts as [Wei Ma (马玮)](https://www.polyu.edu.hk/cee/people/academic-staff/dr-wei-ma/), [Dazhi Xi (席大智)](https://scholar.google.com/citations?user=j69OYfEAAAAJ&hl=en&oi=ao), [Cao Wang (王草)](https://scholar.google.com/citations?user=2VZIB58AAAAJ) and [Xuanhong Chen (陈炫宏)](https://scholar.google.com/citations?user=UuCqlfEAAAAJ) and senior experts as [Robert Kopp](https://scholar.google.com/citations?user=ceifbhUAAAAJ), [Bruce Ellingwood](https://www.engr.colostate.edu/ce/bruce-ellingwood/) and [Min Ouyang (欧阳敏)](https://scholar.google.com/citations?user=1QNTooQAAAAJ) closely. 
+    <p>I received engineering and mathematics degrees from Tsinghua University, and a Ph.D. in Civil and Environmental Engineering from Princeton University under <a href="https://cee.princeton.edu/people/ning-lin">Prof. Ning Lin</a>. I subsequently conducted postdoctoral research at Princeton and was a STEP Research Fellow with <a href="https://scholar.princeton.edu/oppenheimer">Prof. Michael Oppenheimer</a> at C-PREE and SPIA.</p>
 
-I have published 20+ papers. For a full list of pubilcations, you could go to my google scholar webpage:<a href='https://scholar.google.com/citations?user=4N5hE8YAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fkelvinfkr%2Fkelvinfkr.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
-
-我目前在同济大学的国家智能无人系统重点实验室担任教授，与[何斌](https://robot.tongji.edu.cn)教授合作。我去年入选国家高层次青年人才（海外），上海市领军人才（海外)。我的研究方向涵盖智慧城市、社区韧性、气候变化以及节能设备和策略。如果您有任何形式的学术合作意向，请随时通过[kelvinfkr@tongji.edu.cn](mailto:kelvinfkr@tongji.edu.cn)与我联系。我目前科研经费充裕。我有多个明年入学的博士名额，将首先通过科学中心的夏令营进行录取；并正在寻找研究助理和博士后。
-
-我毕业于清华大学，获得工程学士学位，导师是[李全旺](https://www.civil.tsinghua.edu.cn/ce/info/1134/1862.htm)教授，并且获得数学双学位，导师是[叶俊](https://math.tsinghua.edu.cn/info/1099/1746.htm)教授。我在普林斯顿大学获得工程博士学位，导师是[Lin Ning](https://cee.princeton.edu/people/ning-lin)教授，后在那里进行了博士后研究。我还在普林斯顿大学的能源与环境政策研究中心（C-PREE）和普林斯顿大学公共与国际事务学院（SPIA）担任STEP研究员，导师为[Michael Oppenheimer](https://scholar.princeton.edu/oppenheimer)教授。
-
-我还与青年专家如[马玮](https://www.polyu.edu.hk/cee/people/academic-staff/dr-wei-ma/)、[席大智](https://scholar.google.com/citations?user=j69OYfEAAAAJ&hl=en&oi=ao)、[王草](https://scholar.google.com/citations?user=2VZIB58AAAAJ)和[陈炫宏](https://scholar.google.com/citations?user=UuCqlfEAAAAJ)，以及资深专家如[Robert Kopp](https://scholar.google.com/citations?user=ceifbhUAAAAJ)，[Bruce Ellingwood](https://www.engr.colostate.edu/ce/bruce-ellingwood/) 和[欧阳敏](https://scholar.google.com/citations?user=1QNTooQAAAAJ)紧密合作。
-
-我已发表20多篇论文。欲了解完整的发表清单，请访问我的谷歌学术主页<a href='https://scholar.google.com/citations?user=4N5hE8YAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fkelvinfkr%2Fkelvinfkr.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。在产业界，我主要从事大型基础设施的节能减排设备与运营策略开发。此外，我长期担任科大智能股份有限公司 (XSHE: 300222) 研究院的首席大数据科学家。目前，我已发布了6项国家专利，并开发了面向节能减排的智能燃烧技术，该技术可在保持设备热力条件的情况下平均减排3-5%，并已在全国近百家钢铁企业中得到实际应用，产生了上亿元的经济效益。我的解决方案还荣获了工信部工业互联网APP优秀解决方案的称号。目前，我的其他应用项目包括电解过程智能优化、电力-燃烧-新能源一体化能源管理体系以及城市充电站规划设计等。合作企业包括宝钢、宁德时代、中石油等。获上海市科技进步二等奖一项。我目前还在上海创智学院担任全时导师,也依托创智学院培养博士生。
+    <p>我现任同济大学自主智能无人系统全国重点实验室长聘副教授、特聘研究员。研究聚焦强化学习与 AI4S，并以“从科学模型到真实设备闭环”为长期目标；同时研究科学基础模型、深度学习推理加速、优化算法与训练理论。</p>
+  </div>
+</section>
