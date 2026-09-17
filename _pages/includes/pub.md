@@ -40,7 +40,7 @@
     <article class="publication">
       <div class="publication-meta">
         <span class="venue">ICLR 2026</span>
-        <span>AI4S · Optimization &amp; Decision Making</span>
+        <span>Generative Models</span>
       </div>
       <div class="publication-body">
         <h3><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/4b00a351b41358965613c118e87dc28c-Abstract-Conference.html">FastAvatar: Towards Unified and Fast 3D Avatar Reconstruction with Large Gaussian Reconstruction Transformers</a></h3>
@@ -56,7 +56,7 @@
     <article class="publication">
       <div class="publication-meta">
         <span class="venue">Nature Communications 2025</span>
-        <span>AI4S · Optimization &amp; Decision Making</span>
+        <span>AI4S</span>
       </div>
       <div class="publication-body">
         <h3><a href="https://www.nature.com/articles/s41467-025-59737-8">Hurricane Ida's blackout–heatwave compound risk in a changing climate</a></h3>
@@ -82,7 +82,7 @@
     <article class="publication">
       <div class="publication-meta">
         <span class="venue">NeurIPS 2022</span>
-        <span>AI4S · Optimization &amp; Decision Making</span>
+        <span>AI4S · Generative Models</span>
       </div>
       <div class="publication-body">
         <h3><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/3fbf0c1ea0716c03dea93bb6be78dd6f-Paper-Conference.pdf">RainNet: A large-scale imagery dataset and benchmark for spatial precipitation downscaling</a></h3>
@@ -98,7 +98,7 @@
     <article class="publication">
       <div class="publication-meta">
         <span class="venue">Nature Communications 2019</span>
-        <span>AI4S · Optimization &amp; Decision Making</span>
+        <span>AI4S</span>
       </div>
       <div class="publication-body">
         <h3><a href="https://www.nature.com/articles/s41467-019-11755-z">Climate change exacerbates hurricane flood hazards along US Atlantic and Gulf Coasts in spatially varying patterns</a></h3>
@@ -111,7 +111,7 @@
     <article class="publication">
       <div class="publication-meta">
         <span class="venue">Nature Communications 2019</span>
-        <span>Optimization &amp; Decision Making · AI4S</span>
+        <span>Optimization &amp; Decision Making</span>
       </div>
       <div class="publication-body">
         <h3><a href="https://www.nature.com/articles/s41467-019-12810-5">Solar and wind energy enhances drought resilience and groundwater sustainability</a></h3>
