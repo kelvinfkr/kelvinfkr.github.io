@@ -16,7 +16,6 @@
       <div class="publication-body">
         <h3><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/f24272663fafadf87616f488e13f99d0-Abstract-Conference.html">On the Computational Limits of AI4S-RL: A Unified ε-N Analysis</a></h3>
         <p class="authors">Qili Shen<sup>*</sup>, <strong>Kairui Feng<sup>*†</sup></strong>, Ang He, Xuanhong Chen, Dake Zhang</p>
-        <p class="author-note"><sup>*</sup> Equal contribution · <sup>†</sup> Corresponding author</p>
         <p>Quantifies the minimum computational cost required for an AI4S surrogate to support reliable RL, connecting surrogate accuracy, physical resolution, and policy quality in one probabilistic framework.</p>
         <div class="publication-links">
           <a href="https://proceedings.iclr.cc/paper_files/paper/2026/file/f24272663fafadf87616f488e13f99d0-Paper-Conference.pdf">Paper</a>
