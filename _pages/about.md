@@ -13,4 +13,8 @@ redirect_from:
 
 {% include_relative includes/pub.md %}
 
+{% include_relative includes/people.md %}
+
 {% include_relative includes/contact.md %}
+
+{% include_relative includes/resources.md %}
