@@ -15,10 +15,11 @@
       </div>
       <div class="publication-body">
         <h3><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/f24272663fafadf87616f488e13f99d0-Abstract-Conference.html">On the Computational Limits of AI4S-RL: A Unified ε-N Analysis</a></h3>
-        <p class="authors">Qili Shen, <strong>Kairui Feng</strong>, Ang He, Xuanhong Chen, Dake Zhang</p>
+        <p class="authors">Qili Shen<sup>*</sup>, <strong>Kairui Feng<sup>*†</sup></strong>, Ang He, Xuanhong Chen, Dake Zhang</p>
+        <p class="author-note"><sup>*</sup> Equal contribution · <sup>†</sup> Corresponding author</p>
         <p>Quantifies the minimum computational cost required for an AI4S surrogate to support reliable RL, connecting surrogate accuracy, physical resolution, and policy quality in one probabilistic framework.</p>
         <div class="publication-links">
-          <a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/f24272663fafadf87616f488e13f99d0-Paper-Conference.pdf">Paper</a>
+          <a href="https://proceedings.iclr.cc/paper_files/paper/2026/file/f24272663fafadf87616f488e13f99d0-Paper-Conference.pdf">Paper</a>
           <a href="https://openreview.net/forum?id=BZnnIeeQox">OpenReview</a>
         </div>
       </div>
@@ -92,6 +93,32 @@
           <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/3fbf0c1ea0716c03dea93bb6be78dd6f-Paper-Conference.pdf">Paper</a>
           <a href="https://github.com/neuralchen/RainNet">Code</a>
         </div>
+      </div>
+    </article>
+
+    <article class="publication">
+      <div class="publication-meta">
+        <span class="venue">Nature Communications 2019</span>
+        <span>Climate risk · Coastal flooding</span>
+      </div>
+      <div class="publication-body">
+        <h3><a href="https://www.nature.com/articles/s41467-019-11755-z">Climate change exacerbates hurricane flood hazards along US Atlantic and Gulf Coasts in spatially varying patterns</a></h3>
+        <p class="authors">Reza Marsooli, Ning Lin, Kerry Emanuel, <strong>Kairui Feng</strong> <span class="author-note">(last author)</span></p>
+        <p>Quantifies how sea-level rise and changing tropical-cyclone climatology reshape hurricane flood hazards across the US Atlantic and Gulf Coasts.</p>
+        <div class="publication-links"><a href="https://www.nature.com/articles/s41467-019-11755-z">Paper</a></div>
+      </div>
+    </article>
+
+    <article class="publication">
+      <div class="publication-meta">
+        <span class="venue">Nature Communications 2019</span>
+        <span>Energy · Water sustainability</span>
+      </div>
+      <div class="publication-body">
+        <h3><a href="https://www.nature.com/articles/s41467-019-12810-5">Solar and wind energy enhances drought resilience and groundwater sustainability</a></h3>
+        <p class="authors">Xiaogang He, <strong>Kairui Feng</strong> <span class="author-note">(second author)</span>, Xiaoyuan Li, Amy B. Craft, Yoshihide Wada, Peter Burek, Eric F. Wood, Justin Sheffield</p>
+        <p>Shows how solar and wind deployment can improve drought resilience and groundwater sustainability by easing water–food–energy trade-offs.</p>
+        <div class="publication-links"><a href="https://www.nature.com/articles/s41467-019-12810-5">Paper</a></div>
       </div>
     </article>
   </div>
