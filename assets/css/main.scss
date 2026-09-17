@@ -537,9 +537,10 @@
 
     li {
         display: flex;
-        align-items: baseline;
-        justify-content: space-between;
-        gap: 0.65rem;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 0.3rem;
         min-width: 0;
         padding: 0.9rem 1rem;
         border: 1px solid #dce5ed;
@@ -550,8 +551,22 @@
         font-weight: 700;
     }
 
-    span {
+    .person-name {
+        color: #183a5e;
+        font-weight: 700;
+        white-space: normal;
+
+        em {
+            margin-left: 0.35rem;
+            color: #6a7b8d;
+            font-style: normal;
+            font-weight: 500;
+        }
+    }
+
+    .person-role {
         color: #6a7b8d;
+        font-size: 0.76rem;
         font-weight: 500;
         white-space: nowrap;
     }
