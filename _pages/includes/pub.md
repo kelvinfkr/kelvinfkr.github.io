@@ -11,7 +11,7 @@
     <article class="publication publication--featured">
       <div class="publication-meta">
         <span class="venue">ICLR 2026</span>
-        <span>RL for AI4S · Theory</span>
+        <span>RL · AI4S</span>
       </div>
       <div class="publication-body">
         <h3><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/f24272663fafadf87616f488e13f99d0-Abstract-Conference.html">On the Computational Limits of AI4S-RL: A Unified ε-N Analysis</a></h3>
@@ -27,7 +27,7 @@
     <article class="publication">
       <div class="publication-meta">
         <span class="venue">PNAS 2025</span>
-        <span>RL · Climate adaptation</span>
+        <span>RL · Optimization &amp; Decision Making</span>
       </div>
       <div class="publication-body">
         <h3><a href="https://www.pnas.org/doi/10.1073/pnas.2402826122">Reinforcement learning–based adaptive strategies for climate change adaptation</a></h3>
@@ -40,7 +40,7 @@
     <article class="publication">
       <div class="publication-meta">
         <span class="venue">ICLR 2026</span>
-        <span>Efficient 3D intelligence</span>
+        <span>AI4S · Optimization &amp; Decision Making</span>
       </div>
       <div class="publication-body">
         <h3><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/4b00a351b41358965613c118e87dc28c-Abstract-Conference.html">FastAvatar: Towards Unified and Fast 3D Avatar Reconstruction with Large Gaussian Reconstruction Transformers</a></h3>
@@ -56,7 +56,7 @@
     <article class="publication">
       <div class="publication-meta">
         <span class="venue">Nature Communications 2025</span>
-        <span>Climate risk · Infrastructure</span>
+        <span>AI4S · Optimization &amp; Decision Making</span>
       </div>
       <div class="publication-body">
         <h3><a href="https://www.nature.com/articles/s41467-025-59737-8">Hurricane Ida's blackout–heatwave compound risk in a changing climate</a></h3>
@@ -69,7 +69,7 @@
     <article class="publication">
       <div class="publication-meta">
         <span class="venue">Nature Communications 2022</span>
-        <span>Resilience · Decision science</span>
+        <span>Optimization &amp; Decision Making · AI4S</span>
       </div>
       <div class="publication-body">
         <h3><a href="https://doi.org/10.1038/s41467-022-32018-4">Tropical cyclone–blackout–heatwave compound hazard resilience in a changing climate</a></h3>
@@ -82,7 +82,7 @@
     <article class="publication">
       <div class="publication-meta">
         <span class="venue">NeurIPS 2022</span>
-        <span>AI for weather</span>
+        <span>AI4S · Optimization &amp; Decision Making</span>
       </div>
       <div class="publication-body">
         <h3><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/3fbf0c1ea0716c03dea93bb6be78dd6f-Paper-Conference.pdf">RainNet: A large-scale imagery dataset and benchmark for spatial precipitation downscaling</a></h3>
@@ -98,7 +98,7 @@
     <article class="publication">
       <div class="publication-meta">
         <span class="venue">Nature Communications 2019</span>
-        <span>Climate risk · Coastal flooding</span>
+        <span>AI4S · Optimization &amp; Decision Making</span>
       </div>
       <div class="publication-body">
         <h3><a href="https://www.nature.com/articles/s41467-019-11755-z">Climate change exacerbates hurricane flood hazards along US Atlantic and Gulf Coasts in spatially varying patterns</a></h3>
@@ -111,7 +111,7 @@
     <article class="publication">
       <div class="publication-meta">
         <span class="venue">Nature Communications 2019</span>
-        <span>Energy · Water sustainability</span>
+        <span>Optimization &amp; Decision Making · AI4S</span>
       </div>
       <div class="publication-body">
         <h3><a href="https://www.nature.com/articles/s41467-019-12810-5">Solar and wind energy enhances drought resilience and groundwater sustainability</a></h3>
