@@ -39,8 +39,8 @@
     <article class="research-card">
       <span class="research-index">02</span>
       <h3>Scientific foundation models</h3>
-      <p>General-purpose AI4S models that act as learned surrogates for broad classes of ODE/PDE systems—not one model per scientific domain.</p>
-      <p class="research-cn">面向多类科学系统的通用基础模型，以可迁移的神经代理统一逼近由 ODE/PDE 控制的复杂动力学，而非局限于单一领域。</p>
+      <p>General-purpose AI4S models that act as learned surrogates for broad classes of ODE/PDE systems.</p>
+      <p class="research-cn">面向多类科学系统的通用基础模型，以可迁移的神经代理统一逼近由 ODE/PDE 控制的复杂动力学。</p>
       <ul>
         <li>General ODE/PDE surrogates</li>
         <li>Transfer across equations and scales</li>
