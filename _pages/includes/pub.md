@@ -149,7 +149,7 @@
       </div>
       <div class="publication-body">
         <h3>FaceProbe: Recovering HDR Environment Map via Masked Diffusion and Physical Preference</h3>
-        <p class="authors">Peng Zhao, William Jing, Juyan Ba, <strong>Kairui Feng</strong>, Xuanhong Chen</p>
+        <p class="authors">Peng Zhao, William Jing, Juyan Ba, <strong>Kairui Feng<sup>†</sup></strong>, Xuanhong Chen</p>
         <p>Recovers HDR environment maps from portraits through masked diffusion and relighting-based preference optimization, improving portrait relighting accuracy.</p>
       </div>
     </article>
