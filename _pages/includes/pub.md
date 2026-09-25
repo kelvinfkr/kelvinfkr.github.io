@@ -65,34 +65,6 @@
     <article class="publication">
       <div class="publication-meta">
         <span class="venue">NeurIPS 2026</span>
-        <span>Generative Models</span>
-      </div>
-      <div class="publication-body">
-        <h3>FaceProbe: Recovering HDR Environment Map via Masked Diffusion and Physical Preference</h3>
-        <p class="authors">Peng Zhao, William Jing, Juyan Ba, <strong>Kairui Feng</strong>, Xuanhong Chen</p>
-        <p>Recovers HDR environment maps from portraits through masked diffusion and relighting-based preference optimization, improving portrait relighting accuracy.</p>
-      </div>
-    </article>
-
-    <article class="publication">
-      <div class="publication-meta">
-        <span class="venue">ICLR 2026</span>
-        <span>Generative Models</span>
-      </div>
-      <div class="publication-body">
-        <h3><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/4b00a351b41358965613c118e87dc28c-Abstract-Conference.html">FastAvatar: Towards Unified and Fast 3D Avatar Reconstruction with Large Gaussian Reconstruction Transformers</a></h3>
-        <p class="authors">Yue Wu, Xuanhong Chen, Yufan Wu, Wen Li, Yuxi Lu, <strong>Kairui Feng</strong></p>
-        <p>A unified feedforward model that reconstructs high-fidelity 3D Gaussian avatars within seconds from a single image, multi-view observations, or monocular video.</p>
-        <div class="publication-links">
-          <a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/4b00a351b41358965613c118e87dc28c-Paper-Conference.pdf">Paper</a>
-          <a href="https://arxiv.org/abs/2508.19754">arXiv</a>
-        </div>
-      </div>
-    </article>
-
-    <article class="publication">
-      <div class="publication-meta">
-        <span class="venue">NeurIPS 2026</span>
         <span>AI4S</span>
       </div>
       <div class="publication-body">
@@ -104,7 +76,7 @@
 
     <article class="publication">
       <div class="publication-meta">
-        <span class="venue">NeurIPS 2026 Evaluations &amp; Datasets</span>
+        <span class="venue">NeurIPS 2026</span>
         <span>AI4S</span>
       </div>
       <div class="publication-body">
@@ -167,6 +139,34 @@
         <p class="authors">Reza Marsooli, Ning Lin, Kerry Emanuel, <strong>Kairui Feng</strong></p>
         <p>Quantifies how sea-level rise and changing tropical-cyclone climatology reshape hurricane flood hazards across the US Atlantic and Gulf Coasts.</p>
         <div class="publication-links"><a href="https://www.nature.com/articles/s41467-019-11755-z">Paper</a></div>
+      </div>
+    </article>
+
+    <article class="publication">
+      <div class="publication-meta">
+        <span class="venue">NeurIPS 2026</span>
+        <span>Generative Models</span>
+      </div>
+      <div class="publication-body">
+        <h3>FaceProbe: Recovering HDR Environment Map via Masked Diffusion and Physical Preference</h3>
+        <p class="authors">Peng Zhao, William Jing, Juyan Ba, <strong>Kairui Feng</strong>, Xuanhong Chen</p>
+        <p>Recovers HDR environment maps from portraits through masked diffusion and relighting-based preference optimization, improving portrait relighting accuracy.</p>
+      </div>
+    </article>
+
+    <article class="publication">
+      <div class="publication-meta">
+        <span class="venue">ICLR 2026</span>
+        <span>Generative Models</span>
+      </div>
+      <div class="publication-body">
+        <h3><a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/4b00a351b41358965613c118e87dc28c-Abstract-Conference.html">FastAvatar: Towards Unified and Fast 3D Avatar Reconstruction with Large Gaussian Reconstruction Transformers</a></h3>
+        <p class="authors">Yue Wu, Xuanhong Chen, Yufan Wu, Wen Li, Yuxi Lu, <strong>Kairui Feng</strong></p>
+        <p>A unified feedforward model that reconstructs high-fidelity 3D Gaussian avatars within seconds from a single image, multi-view observations, or monocular video.</p>
+        <div class="publication-links">
+          <a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/4b00a351b41358965613c118e87dc28c-Paper-Conference.pdf">Paper</a>
+          <a href="https://arxiv.org/abs/2508.19754">arXiv</a>
+        </div>
       </div>
     </article>
   </div>
