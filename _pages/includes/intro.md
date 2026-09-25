@@ -47,17 +47,6 @@
     </article>
     <article class="research-card">
       <span class="research-index">02</span>
-      <h3>Scientific foundation models</h3>
-      <p>General-purpose AI4S models that act as learned surrogates for broad classes of ODE/PDE systems.</p>
-      <p class="research-cn">面向多类科学系统的通用基础模型，以可迁移的神经代理统一逼近由 ODE/PDE 控制的复杂动力学。</p>
-      <ul>
-        <li>General ODE/PDE surrogates</li>
-        <li>Transfer across equations and scales</li>
-        <li>Differentiable simulation for control</li>
-      </ul>
-    </article>
-    <article class="research-card">
-      <span class="research-index">03</span>
       <h3>Efficient & principled learning</h3>
       <p>Inference acceleration, optimization, and training theory that make ambitious learning systems faster and more reliable.</p>
       <p class="research-cn">推理加速、优化算法与训练理论。</p>
@@ -65,6 +54,17 @@
         <li>Fast neural inference</li>
         <li>Model compression</li>
         <li>Optimization and learning theory</li>
+      </ul>
+    </article>
+    <article class="research-card">
+      <span class="research-index">03</span>
+      <h3>Scientific foundation models</h3>
+      <p>General-purpose AI4S models that act as learned surrogates for broad classes of ODE/PDE systems.</p>
+      <p class="research-cn">面向多类科学系统的通用基础模型，以可迁移的神经代理统一逼近由 ODE/PDE 控制的复杂动力学。</p>
+      <ul>
+        <li>General ODE/PDE surrogates</li>
+        <li>Transfer across equations and scales</li>
+        <li>Differentiable simulation for control</li>
       </ul>
     </article>
   </div>
